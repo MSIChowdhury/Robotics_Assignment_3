@@ -154,7 +154,7 @@ ros2 launch turtlebot3_manipulation_bringup hardware.launch.py
 
 ```bash
 cd ~/turtlebot_docker
-git clone https://github.com/dmz44/Robotics_Assignment_3.git
+git clone https://github.com/MSIChowdhury/Robotics_Assignment_3.git
 cp Robotics_Assignment_3/sample_code.py my_code/sample_code.py
 ```
 
